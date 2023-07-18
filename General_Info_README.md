@@ -3,6 +3,8 @@
 <br>
 
 ### ChatGPT Prompt
+https://chat.openai.com/share/94906540-47b5-4d51-bc03-e885279d20a4
+
 "create me a machine learning algorithm to find the most cost effective 2d simple truss design. The truss spans 14m, has a roller support and a pin support at opposite ends, with an applied load at the center of 70kN.  More constraints include there has to be a member at least ever 3.5m and a height of no less than 1m"
 
 <br>
