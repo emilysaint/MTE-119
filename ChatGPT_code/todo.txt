@@ -1,1 +1,23 @@
-todo.XML
+all neural networks have to look like this.
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ |  |  |  |  |  |  |  |  |  |
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Get all possible combinations of nodes.
+Nodes go in. 
+
+M - columns
+N - rows
+ - will give all possible positions at which an intersection may occur
+
+Data In: Giant matrix of zeros and ones.
+
+1. Weed out the imposible/bad points and enforce the must have points.
+
+ awesome possum.
+
+We are just making arrangements at this point. This is initially done randomly and then optimized later.
+
+CNN tbd
+
